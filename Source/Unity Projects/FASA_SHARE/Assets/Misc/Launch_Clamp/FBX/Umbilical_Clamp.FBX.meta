@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 9a692987b950b2f4ebceb3afc6bc131d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Base_Col
+    100002: Umbilical_Anim_Root
+    100004: Umbilical_Arm_Col
+    100006: Umbilical_Base
+    100008: Umbilical_Base_Pipes
+    100010: Umbilical_Cap
+    100012: Umbilical_Cap_Col
+    100014: Umbilical_Clamp
+    100016: //RootNode
+    100018: Umbilical_Tower
+    100020: Umbilical_Tower_Col
+    100022: UmbilicalSm_Pipes
+    100024: Umbilical_Rotate
+    100026: Umbilical_Vable
+    100028: Umbilical_Pivot
+    400000: Base_Col
+    400002: Umbilical_Anim_Root
+    400004: Umbilical_Arm_Col
+    400006: Umbilical_Base
+    400008: Umbilical_Base_Pipes
+    400010: Umbilical_Cap
+    400012: Umbilical_Cap_Col
+    400014: Umbilical_Clamp
+    400016: //RootNode
+    400018: Umbilical_Tower
+    400020: Umbilical_Tower_Col
+    400022: UmbilicalSm_Pipes
+    400024: Umbilical_Rotate
+    400026: Umbilical_Vable
+    400028: Umbilical_Pivot
+    2300000: Base_Col
+    2300002: Umbilical_Anim_Root
+    2300004: Umbilical_Arm_Col
+    2300006: Umbilical_Base
+    2300008: Umbilical_Base_Pipes
+    2300010: Umbilical_Cap
+    2300012: Umbilical_Cap_Col
+    2300014: Umbilical_Clamp
+    2300016: Umbilical_Tower
+    2300018: Umbilical_Tower_Col
+    2300020: UmbilicalSm_Pipes
+    2300022: Umbilical_Rotate
+    2300024: Umbilical_Vable
+    2300026: Umbilical_Pivot
+    3300000: Base_Col
+    3300002: Umbilical_Anim_Root
+    3300004: Umbilical_Arm_Col
+    3300006: Umbilical_Base
+    3300008: Umbilical_Base_Pipes
+    3300010: Umbilical_Cap
+    3300012: Umbilical_Cap_Col
+    3300014: Umbilical_Clamp
+    3300016: Umbilical_Tower
+    3300018: Umbilical_Tower_Col
+    3300020: UmbilicalSm_Pipes
+    3300022: Umbilical_Rotate
+    3300024: Umbilical_Vable
+    3300026: Umbilical_Pivot
+    4300000: Umbilical_Base
+    4300002: Base_Col
+    4300004: Umbilical_Base_Pipes
+    4300006: Umbilical_Cap
+    4300008: Umbilical_Tower_Col
+    4300010: Umbilical_Tower
+    4300012: Umbilical_Cap_Col
+    4300014: Umbilical_Anim_Root
+    4300016: Umbilical_Clamp
+    4300018: UmbilicalSm_Pipes
+    4300020: Umbilical_Arm_Col
+    4300022: Umbilical_Rotate
+    4300024: Umbilical_Vable
+    4300026: Umbilical_Pivot
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

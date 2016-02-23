@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 17e01ebc109a93f4195098116e8ae01a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LFE_LR91
+    100004: Mercury_Atlas_Booster_Col
+    100006: thrustTransform
+    100008: Agena_Engine
+    100010: Col_Agena_EngineBottom
+    100012: Col_Agena_EngineTop
+    100014: Agena_Engine_fairing
+    400000: //RootNode
+    400002: LFE_LR91
+    400004: Mercury_Atlas_Booster_Col
+    400006: thrustTransform
+    400008: Agena_Engine
+    400010: Col_Agena_EngineBottom
+    400012: Col_Agena_EngineTop
+    400014: Agena_Engine_fairing
+    2300000: LFE_LR91
+    2300002: Mercury_Atlas_Booster_Col
+    2300004: thrustTransform
+    2300006: Agena_Engine
+    2300008: Col_Agena_EngineBottom
+    2300010: Col_Agena_EngineTop
+    2300012: Agena_Engine_fairing
+    3300000: LFE_LR91
+    3300002: Mercury_Atlas_Booster_Col
+    3300004: thrustTransform
+    3300006: Agena_Engine
+    3300008: Col_Agena_EngineBottom
+    3300010: Col_Agena_EngineTop
+    3300012: Agena_Engine_fairing
+    4300000: LFE_LR91
+    4300002: Mercury_Atlas_Booster_Col
+    4300004: thrustTransform
+    4300006: Agena_Engine
+    4300008: Col_Agena_EngineBottom
+    4300010: Col_Agena_EngineTop
+    4300012: Agena_Engine_fairing
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

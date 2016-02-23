@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 9ce69c8810d764d4cb7594a5e2611f9d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Explorer_Probe
+    100004: Explorer_Probe_Col
+    100006: Explorer_Antenna
+    100008: Explorer_Ant
+    100010: Explorer_Ant_Ball
+    100012: Explorer_Ant001
+    100014: Explorer_Ant002
+    100016: Explorer_Ant003
+    100018: Explorer_Ant_Ball001
+    100020: Explorer_Ant_Ball002
+    100022: Explorer_Ant_Ball003
+    400000: //RootNode
+    400002: Explorer_Probe
+    400004: Explorer_Probe_Col
+    400006: Explorer_Antenna
+    400008: Explorer_Ant
+    400010: Explorer_Ant_Ball
+    400012: Explorer_Ant001
+    400014: Explorer_Ant002
+    400016: Explorer_Ant003
+    400018: Explorer_Ant_Ball001
+    400020: Explorer_Ant_Ball002
+    400022: Explorer_Ant_Ball003
+    2300000: Explorer_Probe
+    2300002: Explorer_Probe_Col
+    2300004: Explorer_Antenna
+    2300006: Explorer_Ant
+    2300008: Explorer_Ant_Ball
+    2300010: Explorer_Ant001
+    2300012: Explorer_Ant002
+    2300014: Explorer_Ant003
+    2300016: Explorer_Ant_Ball001
+    2300018: Explorer_Ant_Ball002
+    2300020: Explorer_Ant_Ball003
+    3300000: Explorer_Probe
+    3300002: Explorer_Probe_Col
+    3300004: Explorer_Antenna
+    3300006: Explorer_Ant
+    3300008: Explorer_Ant_Ball
+    3300010: Explorer_Ant001
+    3300012: Explorer_Ant002
+    3300014: Explorer_Ant003
+    3300016: Explorer_Ant_Ball001
+    3300018: Explorer_Ant_Ball002
+    3300020: Explorer_Ant_Ball003
+    4300000: Explorer_Probe
+    4300002: Explorer_Probe_Col
+    4300004: Explorer_Antenna
+    4300006: Explorer_Ant
+    4300008: Explorer_Ant_Ball
+    4300010: Explorer_Ant001
+    4300012: Explorer_Ant_Ball001
+    4300014: Explorer_Ant002
+    4300016: Explorer_Ant_Ball002
+    4300018: Explorer_Ant003
+    4300020: Explorer_Ant_Ball003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

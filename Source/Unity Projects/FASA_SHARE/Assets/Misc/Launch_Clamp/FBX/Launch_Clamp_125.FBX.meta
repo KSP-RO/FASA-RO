@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 24b7d2687051d0b4393e6a4459b57a2a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Clamp_Arm003
+    100002: Col_Launch_Clamp_125
+    100004: //RootNode
+    100006: Launch_Clamp_125
+    100008: Base_Launch_Clamp_125
+    100010: Cap_125
+    100012: Clamp_Anim_Root_125
+    100014: Col_Cap_125
+    100016: Col_Tower_125
+    100018: Tower_125
+    400000: Clamp_Arm003
+    400002: Col_Launch_Clamp_125
+    400004: //RootNode
+    400006: Launch_Clamp_125
+    400008: Base_Launch_Clamp_125
+    400010: Cap_125
+    400012: Clamp_Anim_Root_125
+    400014: Col_Cap_125
+    400016: Col_Tower_125
+    400018: Tower_125
+    2300000: Clamp_Arm003
+    2300002: Col_Launch_Clamp_125
+    2300004: Launch_Clamp_125
+    2300006: Base_Launch_Clamp_125
+    2300008: Cap_125
+    2300010: Clamp_Anim_Root_125
+    2300012: Col_Cap_125
+    2300014: Col_Tower_125
+    2300016: Tower_125
+    3300000: Clamp_Arm003
+    3300002: Col_Launch_Clamp_125
+    3300004: Launch_Clamp_125
+    3300006: Base_Launch_Clamp_125
+    3300008: Cap_125
+    3300010: Clamp_Anim_Root_125
+    3300012: Col_Cap_125
+    3300014: Col_Tower_125
+    3300016: Tower_125
+    4300000: Launch_Clamp_125
+    4300002: Clamp_Arm003
+    4300004: Col_Launch_Clamp_125
+    4300006: Base_Launch_Clamp_125
+    4300008: Cap_125
+    4300010: Tower_125
+    4300012: Col_Tower_125
+    4300014: Col_Cap_125
+    4300016: Clamp_Anim_Root_125
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 55e18aebc1ed418479cd81ecaa61570b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: LM_IM_Leg_001
+    100004: LM_IM_Leg_002
+    100006: LM_IM_Leg_003
+    100008: LM_IM_Leg_004
+    100010: //RootNode
+    100012: LM_IM_Legs_BONE_Lapa___001
+    100014: LM_IM_Legs_BONE_Lapa___002
+    100016: LM_IM_Legs_BONE_Lapa___003
+    100018: LM_IM_Legs_BONE_Lapa___004
+    100020: LM_IM_Legs_BONE_Left-11___001
+    100022: LM_IM_Legs_BONE_Left-11___002
+    100024: LM_IM_Legs_BONE_Left-11___003
+    100026: LM_IM_Legs_BONE_Left-11___004
+    100028: LM_IM_Legs_BONE_Left-1___001
+    100030: LM_IM_Legs_BONE_Left-1___002
+    100032: LM_IM_Legs_BONE_Left-1___003
+    100034: LM_IM_Legs_BONE_Left-1___004
+    100036: LM_IM_Legs_BONE_Left-2___001
+    100038: LM_IM_Legs_BONE_Left-2___002
+    100040: LM_IM_Legs_BONE_Left-2___003
+    100042: LM_IM_Legs_BONE_Left-2___004
+    100044: LM_IM_Legs_BONE_Main___001
+    100046: LM_IM_Legs_BONE_Main___002
+    100048: LM_IM_Legs_BONE_Main___003
+    100050: LM_IM_Legs_BONE_Main___004
+    100052: LM_IM_Legs_BONE_Niz___001
+    100054: LM_IM_Legs_BONE_Niz___002
+    100056: LM_IM_Legs_BONE_Niz___003
+    100058: LM_IM_Legs_BONE_Niz___004
+    100060: LM_IM_Legs_BONE_Right-11___001
+    100062: LM_IM_Legs_BONE_Right-11___002
+    100064: LM_IM_Legs_BONE_Right-11___003
+    100066: LM_IM_Legs_BONE_Right-11___004
+    100068: LM_IM_Legs_BONE_Right-1___001
+    100070: LM_IM_Legs_BONE_Right-1___002
+    100072: LM_IM_Legs_BONE_Right-1___003
+    100074: LM_IM_Legs_BONE_Right-1___004
+    100076: LM_IM_Legs_BONE_Right-2___001
+    100078: LM_IM_Legs_BONE_Right-2___002
+    100080: LM_IM_Legs_BONE_Right-2___003
+    100082: LM_IM_Legs_BONE_Right-2___004
+    100084: LM_IM_Legs_BONE_Zero___001
+    100086: LM_IM_Legs_Dummy___001
+    100088: LM_IM_Legs_Dummy___002
+    100090: LM_IM_Legs_Dummy___003
+    100092: LM_IM_Legs_Dummy___004
+    100094: LM_IM_Legs_DummyLeft___001
+    100096: LM_IM_Legs_DummyLeft___002
+    100098: LM_IM_Legs_DummyLeft___003
+    100100: LM_IM_Legs_DummyLeft___004
+    100102: LM_IM_Legs_DummyRight___001
+    100104: LM_IM_Legs_DummyRight___002
+    100106: LM_IM_Legs_DummyRight___003
+    100108: LM_IM_Legs_DummyRight___004
+    100110: LM_IM_Legs_BONE_Datchik___002
+    100112: LM_IM_Legs_BONE_Datchik___003
+    100114: LM_IM_Legs_BONE_Datchik___004
+    100116: LM_IM_Staircase
+    400000: ' 1'
+    400002: LM_IM_Leg_001
+    400004: LM_IM_Leg_002
+    400006: LM_IM_Leg_003
+    400008: LM_IM_Leg_004
+    400010: //RootNode
+    400012: LM_IM_Legs_BONE_Lapa___001
+    400014: LM_IM_Legs_BONE_Lapa___002
+    400016: LM_IM_Legs_BONE_Lapa___003
+    400018: LM_IM_Legs_BONE_Lapa___004
+    400020: LM_IM_Legs_BONE_Left-11___001
+    400022: LM_IM_Legs_BONE_Left-11___002
+    400024: LM_IM_Legs_BONE_Left-11___003
+    400026: LM_IM_Legs_BONE_Left-11___004
+    400028: LM_IM_Legs_BONE_Left-1___001
+    400030: LM_IM_Legs_BONE_Left-1___002
+    400032: LM_IM_Legs_BONE_Left-1___003
+    400034: LM_IM_Legs_BONE_Left-1___004
+    400036: LM_IM_Legs_BONE_Left-2___001
+    400038: LM_IM_Legs_BONE_Left-2___002
+    400040: LM_IM_Legs_BONE_Left-2___003
+    400042: LM_IM_Legs_BONE_Left-2___004
+    400044: LM_IM_Legs_BONE_Main___001
+    400046: LM_IM_Legs_BONE_Main___002
+    400048: LM_IM_Legs_BONE_Main___003
+    400050: LM_IM_Legs_BONE_Main___004
+    400052: LM_IM_Legs_BONE_Niz___001
+    400054: LM_IM_Legs_BONE_Niz___002
+    400056: LM_IM_Legs_BONE_Niz___003
+    400058: LM_IM_Legs_BONE_Niz___004
+    400060: LM_IM_Legs_BONE_Right-11___001
+    400062: LM_IM_Legs_BONE_Right-11___002
+    400064: LM_IM_Legs_BONE_Right-11___003
+    400066: LM_IM_Legs_BONE_Right-11___004
+    400068: LM_IM_Legs_BONE_Right-1___001
+    400070: LM_IM_Legs_BONE_Right-1___002
+    400072: LM_IM_Legs_BONE_Right-1___003
+    400074: LM_IM_Legs_BONE_Right-1___004
+    400076: LM_IM_Legs_BONE_Right-2___001
+    400078: LM_IM_Legs_BONE_Right-2___002
+    400080: LM_IM_Legs_BONE_Right-2___003
+    400082: LM_IM_Legs_BONE_Right-2___004
+    400084: LM_IM_Legs_BONE_Zero___001
+    400086: LM_IM_Legs_Dummy___001
+    400088: LM_IM_Legs_Dummy___002
+    400090: LM_IM_Legs_Dummy___003
+    400092: LM_IM_Legs_Dummy___004
+    400094: LM_IM_Legs_DummyLeft___001
+    400096: LM_IM_Legs_DummyLeft___002
+    400098: LM_IM_Legs_DummyLeft___003
+    400100: LM_IM_Legs_DummyLeft___004
+    400102: LM_IM_Legs_DummyRight___001
+    400104: LM_IM_Legs_DummyRight___002
+    400106: LM_IM_Legs_DummyRight___003
+    400108: LM_IM_Legs_DummyRight___004
+    400110: LM_IM_Legs_BONE_Datchik___002
+    400112: LM_IM_Legs_BONE_Datchik___003
+    400114: LM_IM_Legs_BONE_Datchik___004
+    400116: LM_IM_Staircase
+    2300000: LM_IM_Legs_BONE_Lapa___001
+    2300002: LM_IM_Legs_BONE_Lapa___002
+    2300004: LM_IM_Legs_BONE_Lapa___003
+    2300006: LM_IM_Legs_BONE_Lapa___004
+    2300008: LM_IM_Legs_BONE_Left-11___001
+    2300010: LM_IM_Legs_BONE_Left-11___002
+    2300012: LM_IM_Legs_BONE_Left-11___003
+    2300014: LM_IM_Legs_BONE_Left-11___004
+    2300016: LM_IM_Legs_BONE_Left-1___001
+    2300018: LM_IM_Legs_BONE_Left-1___002
+    2300020: LM_IM_Legs_BONE_Left-1___003
+    2300022: LM_IM_Legs_BONE_Left-1___004
+    2300024: LM_IM_Legs_BONE_Left-2___001
+    2300026: LM_IM_Legs_BONE_Left-2___002
+    2300028: LM_IM_Legs_BONE_Left-2___003
+    2300030: LM_IM_Legs_BONE_Left-2___004
+    2300032: LM_IM_Legs_BONE_Main___001
+    2300034: LM_IM_Legs_BONE_Main___002
+    2300036: LM_IM_Legs_BONE_Main___003
+    2300038: LM_IM_Legs_BONE_Main___004
+    2300040: LM_IM_Legs_BONE_Niz___001
+    2300042: LM_IM_Legs_BONE_Niz___002
+    2300044: LM_IM_Legs_BONE_Niz___003
+    2300046: LM_IM_Legs_BONE_Niz___004
+    2300048: LM_IM_Legs_BONE_Right-11___001
+    2300050: LM_IM_Legs_BONE_Right-11___002
+    2300052: LM_IM_Legs_BONE_Right-11___003
+    2300054: LM_IM_Legs_BONE_Right-11___004
+    2300056: LM_IM_Legs_BONE_Right-1___001
+    2300058: LM_IM_Legs_BONE_Right-1___002
+    2300060: LM_IM_Legs_BONE_Right-1___003
+    2300062: LM_IM_Legs_BONE_Right-1___004
+    2300064: LM_IM_Legs_BONE_Right-2___001
+    2300066: LM_IM_Legs_BONE_Right-2___002
+    2300068: LM_IM_Legs_BONE_Right-2___003
+    2300070: LM_IM_Legs_BONE_Right-2___004
+    2300072: LM_IM_Legs_BONE_Zero___001
+    2300074: LM_IM_Legs_Dummy___001
+    2300076: LM_IM_Legs_Dummy___002
+    2300078: LM_IM_Legs_Dummy___003
+    2300080: LM_IM_Legs_Dummy___004
+    2300082: LM_IM_Legs_DummyLeft___001
+    2300084: LM_IM_Legs_DummyLeft___002
+    2300086: LM_IM_Legs_DummyLeft___003
+    2300088: LM_IM_Legs_DummyLeft___004
+    2300090: LM_IM_Legs_DummyRight___001
+    2300092: LM_IM_Legs_DummyRight___002
+    2300094: LM_IM_Legs_DummyRight___003
+    2300096: LM_IM_Legs_DummyRight___004
+    2300098: LM_IM_Legs_BONE_Datchik___002
+    2300100: LM_IM_Legs_BONE_Datchik___003
+    2300102: LM_IM_Legs_BONE_Datchik___004
+    2300104: LM_IM_Staircase
+    3300000: LM_IM_Legs_BONE_Lapa___001
+    3300002: LM_IM_Legs_BONE_Lapa___002
+    3300004: LM_IM_Legs_BONE_Lapa___003
+    3300006: LM_IM_Legs_BONE_Lapa___004
+    3300008: LM_IM_Legs_BONE_Left-11___001
+    3300010: LM_IM_Legs_BONE_Left-11___002
+    3300012: LM_IM_Legs_BONE_Left-11___003
+    3300014: LM_IM_Legs_BONE_Left-11___004
+    3300016: LM_IM_Legs_BONE_Left-1___001
+    3300018: LM_IM_Legs_BONE_Left-1___002
+    3300020: LM_IM_Legs_BONE_Left-1___003
+    3300022: LM_IM_Legs_BONE_Left-1___004
+    3300024: LM_IM_Legs_BONE_Left-2___001
+    3300026: LM_IM_Legs_BONE_Left-2___002
+    3300028: LM_IM_Legs_BONE_Left-2___003
+    3300030: LM_IM_Legs_BONE_Left-2___004
+    3300032: LM_IM_Legs_BONE_Main___001
+    3300034: LM_IM_Legs_BONE_Main___002
+    3300036: LM_IM_Legs_BONE_Main___003
+    3300038: LM_IM_Legs_BONE_Main___004
+    3300040: LM_IM_Legs_BONE_Niz___001
+    3300042: LM_IM_Legs_BONE_Niz___002
+    3300044: LM_IM_Legs_BONE_Niz___003
+    3300046: LM_IM_Legs_BONE_Niz___004
+    3300048: LM_IM_Legs_BONE_Right-11___001
+    3300050: LM_IM_Legs_BONE_Right-11___002
+    3300052: LM_IM_Legs_BONE_Right-11___003
+    3300054: LM_IM_Legs_BONE_Right-11___004
+    3300056: LM_IM_Legs_BONE_Right-1___001
+    3300058: LM_IM_Legs_BONE_Right-1___002
+    3300060: LM_IM_Legs_BONE_Right-1___003
+    3300062: LM_IM_Legs_BONE_Right-1___004
+    3300064: LM_IM_Legs_BONE_Right-2___001
+    3300066: LM_IM_Legs_BONE_Right-2___002
+    3300068: LM_IM_Legs_BONE_Right-2___003
+    3300070: LM_IM_Legs_BONE_Right-2___004
+    3300072: LM_IM_Legs_BONE_Zero___001
+    3300074: LM_IM_Legs_Dummy___001
+    3300076: LM_IM_Legs_Dummy___002
+    3300078: LM_IM_Legs_Dummy___003
+    3300080: LM_IM_Legs_Dummy___004
+    3300082: LM_IM_Legs_DummyLeft___001
+    3300084: LM_IM_Legs_DummyLeft___002
+    3300086: LM_IM_Legs_DummyLeft___003
+    3300088: LM_IM_Legs_DummyLeft___004
+    3300090: LM_IM_Legs_DummyRight___001
+    3300092: LM_IM_Legs_DummyRight___002
+    3300094: LM_IM_Legs_DummyRight___003
+    3300096: LM_IM_Legs_DummyRight___004
+    3300098: LM_IM_Legs_BONE_Datchik___002
+    3300100: LM_IM_Legs_BONE_Datchik___003
+    3300102: LM_IM_Legs_BONE_Datchik___004
+    3300104: LM_IM_Staircase
+    4300000: LM_IM_Leg_002
+    4300002: LM_IM_Leg_003
+    4300004: LM_IM_Leg_004
+    4300006: LM_IM_Legs_BONE_Zero___001
+    4300008: LM_IM_Legs_BONE_Niz___001
+    4300010: LM_IM_Legs_BONE_Left-2___001
+    4300012: LM_IM_Legs_BONE_Right-2___001
+    4300014: LM_IM_Legs_DummyLeft___001
+    4300016: LM_IM_Legs_BONE_Left-11___001
+    4300018: LM_IM_Legs_DummyRight___001
+    4300020: LM_IM_Legs_BONE_Right-11___001
+    4300022: LM_IM_Legs_BONE_Main___001
+    4300024: LM_IM_Legs_BONE_Lapa___001
+    4300026: LM_IM_Legs_BONE_Left-1___001
+    4300028: LM_IM_Legs_BONE_Right-1___001
+    4300030: LM_IM_Legs_Dummy___001
+    4300032: LM_IM_Legs_BONE_Main___002
+    4300034: LM_IM_Legs_BONE_Lapa___002
+    4300036: LM_IM_Legs_BONE_Left-1___002
+    4300038: LM_IM_Legs_BONE_Right-1___002
+    4300040: LM_IM_Legs_Dummy___002
+    4300042: LM_IM_Legs_BONE_Niz___002
+    4300044: LM_IM_Legs_BONE_Left-2___002
+    4300046: LM_IM_Legs_BONE_Right-2___002
+    4300048: LM_IM_Legs_DummyLeft___002
+    4300050: LM_IM_Legs_BONE_Left-11___002
+    4300052: LM_IM_Legs_DummyRight___002
+    4300054: LM_IM_Legs_BONE_Right-11___002
+    4300056: LM_IM_Legs_BONE_Main___003
+    4300058: LM_IM_Legs_BONE_Lapa___003
+    4300060: LM_IM_Legs_BONE_Left-1___003
+    4300062: LM_IM_Legs_BONE_Right-1___003
+    4300064: LM_IM_Legs_Dummy___003
+    4300066: LM_IM_Legs_BONE_Niz___003
+    4300068: LM_IM_Legs_BONE_Left-2___003
+    4300070: LM_IM_Legs_BONE_Right-2___003
+    4300072: LM_IM_Legs_DummyLeft___003
+    4300074: LM_IM_Legs_BONE_Left-11___003
+    4300076: LM_IM_Legs_DummyRight___003
+    4300078: LM_IM_Legs_BONE_Right-11___003
+    4300080: LM_IM_Legs_BONE_Main___004
+    4300082: LM_IM_Legs_BONE_Lapa___004
+    4300084: LM_IM_Legs_BONE_Left-1___004
+    4300086: LM_IM_Legs_BONE_Right-1___004
+    4300088: LM_IM_Legs_Dummy___004
+    4300090: LM_IM_Legs_BONE_Niz___004
+    4300092: LM_IM_Legs_BONE_Left-2___004
+    4300094: LM_IM_Legs_BONE_Right-2___004
+    4300096: LM_IM_Legs_DummyLeft___004
+    4300098: LM_IM_Legs_BONE_Left-11___004
+    4300100: LM_IM_Legs_DummyRight___004
+    4300102: LM_IM_Legs_BONE_Right-11___004
+    4300104: LM_IM_Leg_001
+    4300106: LM_IM_Legs_BONE_Datchik___002
+    4300108: LM_IM_Legs_BONE_Datchik___003
+    4300110: LM_IM_Legs_BONE_Datchik___004
+    4300112: LM_IM_Staircase
+    6400000: LM_IM_Legs_BONE_Datchik___002
+    6400002: LM_IM_Legs_BONE_Datchik___003
+    6400004: LM_IM_Legs_BONE_Datchik___004
+    6400006: LM_IM_Legs_BONE_Lapa___001
+    6400008: LM_IM_Legs_BONE_Lapa___002
+    6400010: LM_IM_Legs_BONE_Lapa___003
+    6400012: LM_IM_Legs_BONE_Lapa___004
+    6400014: LM_IM_Legs_BONE_Left-11___001
+    6400016: LM_IM_Legs_BONE_Left-11___002
+    6400018: LM_IM_Legs_BONE_Left-11___003
+    6400020: LM_IM_Legs_BONE_Left-11___004
+    6400022: LM_IM_Legs_BONE_Left-1___001
+    6400024: LM_IM_Legs_BONE_Left-1___002
+    6400026: LM_IM_Legs_BONE_Left-1___003
+    6400028: LM_IM_Legs_BONE_Left-1___004
+    6400030: LM_IM_Legs_BONE_Left-2___001
+    6400032: LM_IM_Legs_BONE_Left-2___002
+    6400034: LM_IM_Legs_BONE_Left-2___003
+    6400036: LM_IM_Legs_BONE_Left-2___004
+    6400038: LM_IM_Legs_BONE_Main___001
+    6400040: LM_IM_Legs_BONE_Main___002
+    6400042: LM_IM_Legs_BONE_Main___003
+    6400044: LM_IM_Legs_BONE_Main___004
+    6400046: LM_IM_Legs_BONE_Niz___001
+    6400048: LM_IM_Legs_BONE_Niz___002
+    6400050: LM_IM_Legs_BONE_Niz___003
+    6400052: LM_IM_Legs_BONE_Niz___004
+    6400054: LM_IM_Legs_BONE_Right-11___001
+    6400056: LM_IM_Legs_BONE_Right-11___002
+    6400058: LM_IM_Legs_BONE_Right-11___003
+    6400060: LM_IM_Legs_BONE_Right-11___004
+    6400062: LM_IM_Legs_BONE_Right-1___001
+    6400064: LM_IM_Legs_BONE_Right-1___002
+    6400066: LM_IM_Legs_BONE_Right-1___003
+    6400068: LM_IM_Legs_BONE_Right-1___004
+    6400070: LM_IM_Legs_BONE_Right-2___001
+    6400072: LM_IM_Legs_BONE_Right-2___002
+    6400074: LM_IM_Legs_BONE_Right-2___003
+    6400076: LM_IM_Legs_BONE_Right-2___004
+    6400078: LM_IM_Legs_BONE_Zero___001
+    6400080: LM_IM_Legs_Dummy___001
+    6400082: LM_IM_Legs_Dummy___002
+    6400084: LM_IM_Legs_Dummy___003
+    6400086: LM_IM_Legs_Dummy___004
+    6400088: LM_IM_Legs_DummyLeft___001
+    6400090: LM_IM_Legs_DummyLeft___002
+    6400092: LM_IM_Legs_DummyLeft___003
+    6400094: LM_IM_Legs_DummyLeft___004
+    6400096: LM_IM_Legs_DummyRight___001
+    6400098: LM_IM_Legs_DummyRight___002
+    6400100: LM_IM_Legs_DummyRight___003
+    6400102: LM_IM_Legs_DummyRight___004
+    7400000: Retract
+    7400002: Landing
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: LM_IM_Leg_001
+    13700002: LM_IM_Leg_002
+    13700004: LM_IM_Leg_003
+    13700006: LM_IM_Leg_004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Retract
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 1'
+        weight: 1
+      - path: LM_IM_Leg_001
+        weight: 1
+      - path: LM_IM_Leg_002
+        weight: 1
+      - path: LM_IM_Leg_003
+        weight: 1
+      - path: LM_IM_Leg_004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_BONE_Lapa___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_BONE_Left-1___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_BONE_Right-1___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_Dummy___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Lapa___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Lapa___002/LM_IM_Legs_BONE_Datchik___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Left-1___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Right-1___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_Dummy___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Lapa___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Lapa___003/LM_IM_Legs_BONE_Datchik___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Left-1___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Right-1___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_Dummy___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Lapa___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Lapa___004/LM_IM_Legs_BONE_Datchik___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Left-1___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Right-1___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_Dummy___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_BONE_Left-2___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_BONE_Right-2___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyLeft___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyLeft___001/LM_IM_Legs_BONE_Left-11___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyRight___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyRight___001/LM_IM_Legs_BONE_Right-11___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_BONE_Left-2___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_BONE_Right-2___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyLeft___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyLeft___002/LM_IM_Legs_BONE_Left-11___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyRight___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyRight___002/LM_IM_Legs_BONE_Right-11___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_BONE_Left-2___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_BONE_Right-2___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyLeft___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyLeft___003/LM_IM_Legs_BONE_Left-11___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyRight___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyRight___003/LM_IM_Legs_BONE_Right-11___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_BONE_Left-2___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_BONE_Right-2___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyLeft___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyLeft___004/LM_IM_Legs_BONE_Left-11___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyRight___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyRight___004/LM_IM_Legs_BONE_Right-11___004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Landing
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 1'
+        weight: 1
+      - path: LM_IM_Leg_001
+        weight: 1
+      - path: LM_IM_Leg_002
+        weight: 1
+      - path: LM_IM_Leg_003
+        weight: 1
+      - path: LM_IM_Leg_004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_BONE_Lapa___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_BONE_Left-1___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_BONE_Right-1___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___001/LM_IM_Legs_Dummy___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Lapa___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Lapa___002/LM_IM_Legs_BONE_Datchik___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Left-1___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_BONE_Right-1___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___002/LM_IM_Legs_Dummy___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Lapa___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Lapa___003/LM_IM_Legs_BONE_Datchik___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Left-1___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_BONE_Right-1___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___003/LM_IM_Legs_Dummy___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Lapa___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Lapa___004/LM_IM_Legs_BONE_Datchik___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Left-1___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_BONE_Right-1___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Main___004/LM_IM_Legs_Dummy___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_BONE_Left-2___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_BONE_Right-2___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyLeft___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyLeft___001/LM_IM_Legs_BONE_Left-11___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyRight___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___001/LM_IM_Legs_DummyRight___001/LM_IM_Legs_BONE_Right-11___001
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_BONE_Left-2___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_BONE_Right-2___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyLeft___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyLeft___002/LM_IM_Legs_BONE_Left-11___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyRight___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___002/LM_IM_Legs_DummyRight___002/LM_IM_Legs_BONE_Right-11___002
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_BONE_Left-2___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_BONE_Right-2___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyLeft___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyLeft___003/LM_IM_Legs_BONE_Left-11___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyRight___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___003/LM_IM_Legs_DummyRight___003/LM_IM_Legs_BONE_Right-11___003
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_BONE_Left-2___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_BONE_Right-2___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyLeft___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyLeft___004/LM_IM_Legs_BONE_Left-11___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyRight___004
+        weight: 1
+      - path: LM_IM_Legs_BONE_Zero___001/LM_IM_Legs_BONE_Niz___004/LM_IM_Legs_DummyRight___004/LM_IM_Legs_BONE_Right-11___004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

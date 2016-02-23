@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: c292757607fccea4c809449dea44bced
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Laser
+    100002: Laser_Base
+    100004: Laser_Beam
+    100006: LaserBox
+    100008: //RootNode
+    400000: Laser
+    400002: Laser_Base
+    400004: Laser_Beam
+    400006: LaserBox
+    400008: //RootNode
+    2300000: Laser
+    2300002: Laser_Base
+    2300004: Laser_Beam
+    2300006: LaserBox
+    3300000: Laser
+    3300002: Laser_Base
+    3300004: Laser_Beam
+    3300006: LaserBox
+    4300000: LaserBox
+    4300002: Laser_Base
+    4300004: Laser
+    4300006: Laser_Beam
+    7400000: Probe_Laser
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: b572d244202579f478e0f9186115ad61
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Fairings_Wall_2m
+    100002: //RootNode
+    100004: Fairings_Wall_2m_Col
+    100006: Fairings_Wall_2m_Col_001
+    100008: Fairings_Wall_2m_Col_002
+    100010: Fairings_Wall_2m_Col_003
+    100012: Fairings_Wall_2m_Col_004
+    100014: Fairings_Wall_2m_Col_005
+    100016: Fairings_Wall_2m_Col_006
+    100018: Fairings_Wall_2m_Col_007
+    100020: Fairings_Wall_2m_Col_008
+    100022: Fairings_Wall_2m_Col_009
+    100024: Fairings_Wall_2m_Col_010
+    100026: Fairings_Wall_2m_Col_011
+    100028: Fairings_Wall_2m_Col_012
+    400000: Fairings_Wall_2m
+    400002: //RootNode
+    400004: Fairings_Wall_2m_Col
+    400006: Fairings_Wall_2m_Col_001
+    400008: Fairings_Wall_2m_Col_002
+    400010: Fairings_Wall_2m_Col_003
+    400012: Fairings_Wall_2m_Col_004
+    400014: Fairings_Wall_2m_Col_005
+    400016: Fairings_Wall_2m_Col_006
+    400018: Fairings_Wall_2m_Col_007
+    400020: Fairings_Wall_2m_Col_008
+    400022: Fairings_Wall_2m_Col_009
+    400024: Fairings_Wall_2m_Col_010
+    400026: Fairings_Wall_2m_Col_011
+    400028: Fairings_Wall_2m_Col_012
+    2300000: Fairings_Wall_2m
+    2300002: Fairings_Wall_2m_Col
+    2300004: Fairings_Wall_2m_Col_001
+    2300006: Fairings_Wall_2m_Col_002
+    2300008: Fairings_Wall_2m_Col_003
+    2300010: Fairings_Wall_2m_Col_004
+    2300012: Fairings_Wall_2m_Col_005
+    2300014: Fairings_Wall_2m_Col_006
+    2300016: Fairings_Wall_2m_Col_007
+    2300018: Fairings_Wall_2m_Col_008
+    2300020: Fairings_Wall_2m_Col_009
+    2300022: Fairings_Wall_2m_Col_010
+    2300024: Fairings_Wall_2m_Col_011
+    2300026: Fairings_Wall_2m_Col_012
+    3300000: Fairings_Wall_2m
+    3300002: Fairings_Wall_2m_Col
+    3300004: Fairings_Wall_2m_Col_001
+    3300006: Fairings_Wall_2m_Col_002
+    3300008: Fairings_Wall_2m_Col_003
+    3300010: Fairings_Wall_2m_Col_004
+    3300012: Fairings_Wall_2m_Col_005
+    3300014: Fairings_Wall_2m_Col_006
+    3300016: Fairings_Wall_2m_Col_007
+    3300018: Fairings_Wall_2m_Col_008
+    3300020: Fairings_Wall_2m_Col_009
+    3300022: Fairings_Wall_2m_Col_010
+    3300024: Fairings_Wall_2m_Col_011
+    3300026: Fairings_Wall_2m_Col_012
+    4300000: Fairings_Wall_2m_Col_012
+    4300002: Fairings_Wall_2m_Col_011
+    4300004: Fairings_Wall_2m_Col_010
+    4300006: Fairings_Wall_2m_Col_009
+    4300008: Fairings_Wall_2m_Col_008
+    4300010: Fairings_Wall_2m_Col_007
+    4300012: Fairings_Wall_2m_Col_006
+    4300014: Fairings_Wall_2m_Col_005
+    4300016: Fairings_Wall_2m_Col_004
+    4300018: Fairings_Wall_2m_Col_003
+    4300020: Fairings_Wall_2m_Col_002
+    4300022: Fairings_Wall_2m_Col_001
+    4300024: Fairings_Wall_2m_Col
+    4300026: Fairings_Wall_2m
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 45
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

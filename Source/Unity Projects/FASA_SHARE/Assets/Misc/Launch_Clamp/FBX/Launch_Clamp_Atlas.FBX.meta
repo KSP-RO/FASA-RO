@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 9cab969ea36cdbe45ba20fb7873d5300
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Atlas_Base
+    100002: Atlas_Cap_Hinge
+    100004: Atlas_Clamp
+    100006: Atlas_Clamp_Anim_Root
+    100008: Atlas_Tower
+    100010: //RootNode
+    100012: Atlas_Cap_Hinge_Col
+    100014: Atlas_Clamp_Col
+    100016: Atlas_Clamp_Cap_Dummy
+    100018: Atlas_Cap_Hinge_Dummy
+    400000: Atlas_Base
+    400002: Atlas_Cap_Hinge
+    400004: Atlas_Clamp
+    400006: Atlas_Clamp_Anim_Root
+    400008: Atlas_Tower
+    400010: //RootNode
+    400012: Atlas_Cap_Hinge_Col
+    400014: Atlas_Clamp_Col
+    400016: Atlas_Clamp_Cap_Dummy
+    400018: Atlas_Cap_Hinge_Dummy
+    2300000: Atlas_Base
+    2300002: Atlas_Cap_Hinge
+    2300004: Atlas_Clamp
+    2300006: Atlas_Clamp_Anim_Root
+    2300008: Atlas_Tower
+    2300010: Atlas_Cap_Hinge_Col
+    2300012: Atlas_Clamp_Col
+    2300014: Atlas_Clamp_Cap_Dummy
+    2300016: Atlas_Cap_Hinge_Dummy
+    3300000: Atlas_Base
+    3300002: Atlas_Cap_Hinge
+    3300004: Atlas_Clamp
+    3300006: Atlas_Clamp_Anim_Root
+    3300008: Atlas_Tower
+    3300010: Atlas_Cap_Hinge_Col
+    3300012: Atlas_Clamp_Col
+    3300014: Atlas_Clamp_Cap_Dummy
+    3300016: Atlas_Cap_Hinge_Dummy
+    4300000: Atlas_Clamp
+    4300002: Atlas_Tower
+    4300004: Atlas_Cap_Hinge
+    4300006: Atlas_Clamp_Anim_Root
+    4300008: Atlas_Base
+    4300010: Atlas_Cap_Hinge_Col
+    4300012: Atlas_Clamp_Col
+    4300014: Atlas_Clamp_Cap_Dummy
+    4300016: Atlas_Cap_Hinge_Dummy
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

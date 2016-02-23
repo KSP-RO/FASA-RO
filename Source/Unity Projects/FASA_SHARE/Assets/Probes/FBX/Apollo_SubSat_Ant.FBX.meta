@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: ceb6b79a57ea3eb498f3845807cd8c35
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ApolloAnt_Boom001
+    100004: ApolloAnt_Mount
+    100006: ApolloPioneerAnt_Boom
+    100008: ApolloPioneerAnt_Boom002
+    100010: PioneerAnt_Col
+    100012: ApolloPioneerAnt_Boom001
+    100014: PioneerAnt_Boom
+    100016: PioneerAnt_Boom001
+    100018: PioneerAnt_Boom002
+    400000: //RootNode
+    400002: ApolloAnt_Boom001
+    400004: ApolloAnt_Mount
+    400006: ApolloPioneerAnt_Boom
+    400008: ApolloPioneerAnt_Boom002
+    400010: PioneerAnt_Col
+    400012: ApolloPioneerAnt_Boom001
+    400014: PioneerAnt_Boom
+    400016: PioneerAnt_Boom001
+    400018: PioneerAnt_Boom002
+    2300000: ApolloAnt_Boom001
+    2300002: ApolloAnt_Mount
+    2300004: ApolloPioneerAnt_Boom
+    2300006: ApolloPioneerAnt_Boom002
+    2300008: PioneerAnt_Col
+    2300010: ApolloPioneerAnt_Boom001
+    2300012: PioneerAnt_Boom
+    2300014: PioneerAnt_Boom001
+    2300016: PioneerAnt_Boom002
+    3300000: ApolloAnt_Boom001
+    3300002: ApolloAnt_Mount
+    3300004: ApolloPioneerAnt_Boom
+    3300006: ApolloPioneerAnt_Boom002
+    3300008: PioneerAnt_Col
+    3300010: ApolloPioneerAnt_Boom001
+    3300012: PioneerAnt_Boom
+    3300014: PioneerAnt_Boom001
+    3300016: PioneerAnt_Boom002
+    4300000: ApolloAnt_Mount
+    4300002: ApolloPioneerAnt_Boom
+    4300004: ApolloAnt_Boom001
+    4300006: ApolloPioneerAnt_Boom002
+    4300008: PioneerAnt_Col
+    4300010: ApolloPioneerAnt_Boom001
+    4300012: PioneerAnt_Boom
+    4300014: PioneerAnt_Boom002
+    4300016: PioneerAnt_Boom001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

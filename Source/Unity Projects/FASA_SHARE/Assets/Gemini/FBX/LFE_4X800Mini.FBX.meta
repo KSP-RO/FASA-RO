@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 1ebe0625c2621c0439d35293c08c64cf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Collision
+    100002: Engine_Nozzle
+    100004: Engine_Nozzle01
+    100006: Engine_Nozzle02
+    100008: Engine_Nozzle03
+    100010: fairing
+    100012: //RootNode
+    100014: LFE_4X800Mini_Base
+    100016: thrustTransform
+    100018: thrustTransform001
+    100020: thrustTransform002
+    100022: thrustTransform003
+    400000: Collision
+    400002: Engine_Nozzle
+    400004: Engine_Nozzle01
+    400006: Engine_Nozzle02
+    400008: Engine_Nozzle03
+    400010: fairing
+    400012: //RootNode
+    400014: LFE_4X800Mini_Base
+    400016: thrustTransform
+    400018: thrustTransform001
+    400020: thrustTransform002
+    400022: thrustTransform003
+    2300000: Collision
+    2300002: Engine_Nozzle
+    2300004: Engine_Nozzle01
+    2300006: Engine_Nozzle02
+    2300008: Engine_Nozzle03
+    2300010: fairing
+    2300012: LFE_4X800Mini_Base
+    2300014: thrustTransform
+    2300016: thrustTransform001
+    2300018: thrustTransform002
+    2300020: thrustTransform003
+    3300000: Collision
+    3300002: Engine_Nozzle
+    3300004: Engine_Nozzle01
+    3300006: Engine_Nozzle02
+    3300008: Engine_Nozzle03
+    3300010: fairing
+    3300012: LFE_4X800Mini_Base
+    3300014: thrustTransform
+    3300016: thrustTransform001
+    3300018: thrustTransform002
+    3300020: thrustTransform003
+    4300000: Collision
+    4300002: LFE_4X800Mini_Base
+    4300004: Engine_Nozzle
+    4300006: fairing
+    4300008: thrustTransform002
+    4300010: thrustTransform001
+    4300012: thrustTransform
+    4300014: thrustTransform003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

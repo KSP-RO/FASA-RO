@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 320a7d7aa132f3e4abd83cd86576e70a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Antenna_Dish
+    100002: Antenna_Dish001
+    100004: Antenna_Dish002
+    100006: Antenna_Dish003
+    100008: Antenna_Dish004
+    100010: Antenna_Dish005
+    100012: Antenna_Dish006
+    100014: Antenna_Reciever
+    100016: //RootNode
+    100018: Gemini_Antenna_DishMount
+    100020: Gemini_Antenna_Mast
+    100022: Gemini_Antenna_Base
+    400000: Antenna_Dish
+    400002: Antenna_Dish001
+    400004: Antenna_Dish002
+    400006: Antenna_Dish003
+    400008: Antenna_Dish004
+    400010: Antenna_Dish005
+    400012: Antenna_Dish006
+    400014: Antenna_Reciever
+    400016: //RootNode
+    400018: Gemini_Antenna_DishMount
+    400020: Gemini_Antenna_Mast
+    400022: Gemini_Antenna_Base
+    2300000: Antenna_Dish
+    2300002: Antenna_Dish001
+    2300004: Antenna_Dish002
+    2300006: Antenna_Dish003
+    2300008: Antenna_Dish004
+    2300010: Antenna_Dish005
+    2300012: Antenna_Dish006
+    2300014: Antenna_Reciever
+    2300016: //RootNode
+    2300018: Gemini_Antenna_DishMount
+    2300020: Gemini_Antenna_Mast
+    2300022: Gemini_Antenna_Base
+    3300000: Antenna_Dish
+    3300002: Antenna_Dish001
+    3300004: Antenna_Dish002
+    3300006: Antenna_Dish003
+    3300008: Antenna_Dish004
+    3300010: Antenna_Dish005
+    3300012: Antenna_Dish006
+    3300014: Antenna_Reciever
+    3300016: //RootNode
+    3300018: Gemini_Antenna_DishMount
+    3300020: Gemini_Antenna_Mast
+    3300022: Gemini_Antenna_Base
+    4300000: Gemini_Antenna_Base
+    4300002: Gemini_Antenna_DishMount
+    4300004: Antenna_Dish
+    4300006: Antenna_Dish004
+    4300008: Antenna_Dish005
+    4300010: Antenna_Dish006
+    4300012: Antenna_Dish001
+    4300014: Antenna_Dish002
+    4300016: Antenna_Dish003
+    4300018: Gemini_Antenna_Mast
+    4300020: Antenna_Reciever
+    7400000: Gemini_Antenna
+    7400002: Gemini_Antenna_Ext
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Gemini_Antenna
+      takeName: Gemini_Antenna
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Gemini_Antenna_Ext
+      takeName: Gemini_Antenna
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

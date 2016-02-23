@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: b5e602888b1d68e408a95f2c32230fb3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Atlas_FuelLine001
+    100002: Atlas_LFT_Large
+    100004: //RootNode
+    100006: Mercury_Atlas_LFT_Long_Col
+    100008: VenearsMount
+    100010: VenearsMount001
+    100012: Atlas_FuelLine002
+    100014: Vernier_Engine_Mount
+    100016: Vernier_Engine_Mount001
+    100018: Mercury_Atlas_LFT_Long_Col 1
+    100020: Mercury_Atlas_LFT_Long_Col001
+    100022: Atlas_Ven_Mount_Coll
+    100024: Atlas_Ven_Mount_Coll001
+    400000: Atlas_FuelLine001
+    400002: Atlas_LFT_Large
+    400004: //RootNode
+    400006: Mercury_Atlas_LFT_Long_Col
+    400008: VenearsMount
+    400010: VenearsMount001
+    400012: Atlas_FuelLine002
+    400014: Vernier_Engine_Mount
+    400016: Vernier_Engine_Mount001
+    400018: Mercury_Atlas_LFT_Long_Col 1
+    400020: Mercury_Atlas_LFT_Long_Col001
+    400022: Atlas_Ven_Mount_Coll
+    400024: Atlas_Ven_Mount_Coll001
+    2300000: Atlas_FuelLine001
+    2300002: Atlas_LFT_Large
+    2300004: Mercury_Atlas_LFT_Long_Col
+    2300006: VenearsMount
+    2300008: VenearsMount001
+    2300010: Atlas_FuelLine002
+    2300012: Vernier_Engine_Mount
+    2300014: Vernier_Engine_Mount001
+    2300016: Mercury_Atlas_LFT_Long_Col 1
+    2300018: Mercury_Atlas_LFT_Long_Col001
+    2300020: Atlas_Ven_Mount_Coll
+    2300022: Atlas_Ven_Mount_Coll001
+    3300000: Atlas_FuelLine001
+    3300002: Atlas_LFT_Large
+    3300004: Mercury_Atlas_LFT_Long_Col
+    3300006: VenearsMount
+    3300008: VenearsMount001
+    3300010: Atlas_FuelLine002
+    3300012: Vernier_Engine_Mount
+    3300014: Vernier_Engine_Mount001
+    3300016: Mercury_Atlas_LFT_Long_Col 1
+    3300018: Mercury_Atlas_LFT_Long_Col001
+    3300020: Atlas_Ven_Mount_Coll
+    3300022: Atlas_Ven_Mount_Coll001
+    4300000: Mercury_Atlas_LFT_Long_Col
+    4300002: Atlas_LFT_Large
+    4300004: Atlas_FuelLine001
+    4300006: VenearsMount
+    4300008: VenearsMount001
+    4300010: Vernier_Engine_Mount
+    4300012: Vernier_Engine_Mount001
+    4300014: Atlas_FuelLine002
+    4300016: Mercury_Atlas_LFT_Long_Col
+    4300018: Mercury_Atlas_LFT_Long_Col001
+    4300020: Atlas_Ven_Mount_Coll
+    4300022: Atlas_Ven_Mount_Coll001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

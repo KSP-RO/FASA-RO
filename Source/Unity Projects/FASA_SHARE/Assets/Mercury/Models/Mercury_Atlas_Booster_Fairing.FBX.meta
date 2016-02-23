@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: dea9ebe681056a34b9874865c258d4f8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mercury_Atlas_Boster_Fairing
+    100004: Mercury_Booster_Fairing_Col
+    100006: Mercury_Booster_Fairing_Col001
+    100008: Mercury_Booster_Fairing_Col002
+    100010: Mercury_Booster_Fairing_Col003
+    100012: Mercury_Booster_Fairing_Col004
+    400000: //RootNode
+    400002: Mercury_Atlas_Boster_Fairing
+    400004: Mercury_Booster_Fairing_Col
+    400006: Mercury_Booster_Fairing_Col001
+    400008: Mercury_Booster_Fairing_Col002
+    400010: Mercury_Booster_Fairing_Col003
+    400012: Mercury_Booster_Fairing_Col004
+    2300000: Mercury_Atlas_Boster_Fairing
+    2300002: Mercury_Booster_Fairing_Col
+    2300004: Mercury_Booster_Fairing_Col001
+    2300006: Mercury_Booster_Fairing_Col002
+    2300008: Mercury_Booster_Fairing_Col003
+    2300010: Mercury_Booster_Fairing_Col004
+    3300000: Mercury_Atlas_Boster_Fairing
+    3300002: Mercury_Booster_Fairing_Col
+    3300004: Mercury_Booster_Fairing_Col001
+    3300006: Mercury_Booster_Fairing_Col002
+    3300008: Mercury_Booster_Fairing_Col003
+    3300010: Mercury_Booster_Fairing_Col004
+    4300000: Mercury_Atlas_Boster_Fairing
+    4300002: Mercury_Booster_Fairing_Col
+    4300004: Mercury_Booster_Fairing_Col004
+    4300006: Mercury_Booster_Fairing_Col001
+    4300008: Mercury_Booster_Fairing_Col003
+    4300010: Mercury_Booster_Fairing_Col002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

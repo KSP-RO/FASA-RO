@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 372ef2f76f956b04da30253fda629ccf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: fairing
+    100002: Mer_Retro001
+    100004: Mer_Retro002
+    100006: Mer_Retro003
+    100008: Mercury_Pod_Engine
+    100010: NodeCol
+    100012: //RootNode
+    100014: thrustTransform
+    100016: thrustTransform001
+    100018: thrustTransform002
+    400000: fairing
+    400002: Mer_Retro001
+    400004: Mer_Retro002
+    400006: Mer_Retro003
+    400008: Mercury_Pod_Engine
+    400010: NodeCol
+    400012: //RootNode
+    400014: thrustTransform
+    400016: thrustTransform001
+    400018: thrustTransform002
+    2300000: fairing
+    2300002: Mer_Retro001
+    2300004: Mer_Retro002
+    2300006: Mer_Retro003
+    2300008: Mercury_Pod_Engine
+    2300010: NodeCol
+    2300012: thrustTransform
+    2300014: thrustTransform001
+    2300016: thrustTransform002
+    3300000: fairing
+    3300002: Mer_Retro001
+    3300004: Mer_Retro002
+    3300006: Mer_Retro003
+    3300008: Mercury_Pod_Engine
+    3300010: NodeCol
+    3300012: thrustTransform
+    3300014: thrustTransform001
+    3300016: thrustTransform002
+    4300000: Mercury_Pod_Engine
+    4300002: Mer_Retro001
+    4300004: Mer_Retro002
+    4300006: Mer_Retro003
+    4300008: fairing
+    4300010: thrustTransform
+    4300012: thrustTransform001
+    4300014: thrustTransform002
+    4300016: NodeCol
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

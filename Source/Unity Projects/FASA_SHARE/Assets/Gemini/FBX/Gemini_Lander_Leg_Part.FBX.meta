@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 8f985bc11deb1a44a925e2cb4bf5f065
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lander_Attachment_Col
+    100004: Lander_GearJoint001
+    100006: LanderFrame_Col001
+    100008: LanderLeg001
+    100010: LanderLeg_Col001
+    100012: LanderLegFrame001
+    100014: LanderLegMount
+    100016: LanderPad001
+    100018: LanderPad_Col001
+    100020: LanderPistion001
+    100022: LanderPistionArm001
+    100024: GeminiLanderLetPartRoot
+    400000: //RootNode
+    400002: Lander_Attachment_Col
+    400004: Lander_GearJoint001
+    400006: LanderFrame_Col001
+    400008: LanderLeg001
+    400010: LanderLeg_Col001
+    400012: LanderLegFrame001
+    400014: LanderLegMount
+    400016: LanderPad001
+    400018: LanderPad_Col001
+    400020: LanderPistion001
+    400022: LanderPistionArm001
+    400024: GeminiLanderLetPartRoot
+    2300000: Lander_Attachment_Col
+    2300002: Lander_GearJoint001
+    2300004: LanderFrame_Col001
+    2300006: LanderLeg001
+    2300008: LanderLeg_Col001
+    2300010: LanderLegFrame001
+    2300012: LanderLegMount
+    2300014: LanderPad001
+    2300016: LanderPad_Col001
+    2300018: LanderPistion001
+    2300020: LanderPistionArm001
+    3300000: Lander_Attachment_Col
+    3300002: Lander_GearJoint001
+    3300004: LanderFrame_Col001
+    3300006: LanderLeg001
+    3300008: LanderLeg_Col001
+    3300010: LanderLegFrame001
+    3300012: LanderLegMount
+    3300014: LanderPad001
+    3300016: LanderPad_Col001
+    3300018: LanderPistion001
+    3300020: LanderPistionArm001
+    4300000: LanderLegMount
+    4300002: LanderFrame_Col001
+    4300004: LanderLegFrame001
+    4300006: Lander_GearJoint001
+    4300008: LanderLeg001
+    4300010: LanderPad001
+    4300012: LanderPad_Col001
+    4300014: LanderLeg_Col001
+    4300016: LanderPistion001
+    4300018: LanderPistionArm001
+    4300020: Lander_Attachment_Col
+    7400000: Gemini_Lander_Leg_Part
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

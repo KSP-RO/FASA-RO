@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: a7e862b2c13c5404db6a0e92c737b3d1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ASAS_RCS
+    100002: Engines
+    100004: //RootNode
+    100006: RCS_SAS_Col
+    100008: RCSthruster
+    100010: RCSthruster001
+    100012: RCSthruster002
+    100014: RCSthruster003
+    100016: RCSthruster004
+    100018: RCSthruster005
+    100020: RCSthruster006
+    100022: RCSthruster007
+    100024: thrustTransform
+    100026: thrustTransform001
+    100028: thrustTransform002
+    100030: thrustTransform003
+    400000: ASAS_RCS
+    400002: Engines
+    400004: //RootNode
+    400006: RCS_SAS_Col
+    400008: RCSthruster
+    400010: RCSthruster001
+    400012: RCSthruster002
+    400014: RCSthruster003
+    400016: RCSthruster004
+    400018: RCSthruster005
+    400020: RCSthruster006
+    400022: RCSthruster007
+    400024: thrustTransform
+    400026: thrustTransform001
+    400028: thrustTransform002
+    400030: thrustTransform003
+    2300000: ASAS_RCS
+    2300002: Engines
+    2300004: RCS_SAS_Col
+    2300006: RCSthruster
+    2300008: RCSthruster001
+    2300010: RCSthruster002
+    2300012: RCSthruster003
+    2300014: RCSthruster004
+    2300016: RCSthruster005
+    2300018: RCSthruster006
+    2300020: RCSthruster007
+    2300022: thrustTransform
+    2300024: thrustTransform001
+    2300026: thrustTransform002
+    2300028: thrustTransform003
+    3300000: ASAS_RCS
+    3300002: Engines
+    3300004: RCS_SAS_Col
+    3300006: RCSthruster
+    3300008: RCSthruster001
+    3300010: RCSthruster002
+    3300012: RCSthruster003
+    3300014: RCSthruster004
+    3300016: RCSthruster005
+    3300018: RCSthruster006
+    3300020: RCSthruster007
+    3300022: thrustTransform
+    3300024: thrustTransform001
+    3300026: thrustTransform002
+    3300028: thrustTransform003
+    4300000: ASAS_RCS
+    4300002: RCS_SAS_Col
+    4300004: RCSthruster
+    4300006: RCSthruster001
+    4300008: RCSthruster002
+    4300010: RCSthruster003
+    4300012: RCSthruster004
+    4300014: RCSthruster005
+    4300016: RCSthruster006
+    4300018: RCSthruster007
+    4300020: Engines
+    4300022: thrustTransform
+    4300024: thrustTransform001
+    4300026: thrustTransform002
+    4300028: thrustTransform003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 506b7357d7850c84e83a7301574bf4f9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MOL_Equip_ColDoor001
+    100004: MOL_Equip_ColDoor002
+    100006: MOL_Equip_ColDoor003
+    100008: MOL_Equip_ColDoor004
+    100010: MOL_Equip_ColWall001
+    100012: MOL_Equip_ColWall002
+    100014: MOL_Equip_Doors003
+    100016: MOL_Equip_Doors004
+    100018: MOL_Equip_Doors1
+    100020: MOL_Equip_Doors2
+    100022: MOL_Equip_Frame
+    100024: MOL_Equip_ColWall003
+    100026: MOL_Equip_Frame001
+    100028: MOL_Equip_ColWallBack003
+    100030: MOL_Equip_FrameBack
+    400000: //RootNode
+    400002: MOL_Equip_ColDoor001
+    400004: MOL_Equip_ColDoor002
+    400006: MOL_Equip_ColDoor003
+    400008: MOL_Equip_ColDoor004
+    400010: MOL_Equip_ColWall001
+    400012: MOL_Equip_ColWall002
+    400014: MOL_Equip_Doors003
+    400016: MOL_Equip_Doors004
+    400018: MOL_Equip_Doors1
+    400020: MOL_Equip_Doors2
+    400022: MOL_Equip_Frame
+    400024: MOL_Equip_ColWall003
+    400026: MOL_Equip_Frame001
+    400028: MOL_Equip_ColWallBack003
+    400030: MOL_Equip_FrameBack
+    2300000: MOL_Equip_ColDoor001
+    2300002: MOL_Equip_ColDoor002
+    2300004: MOL_Equip_ColDoor003
+    2300006: MOL_Equip_ColDoor004
+    2300008: MOL_Equip_ColWall001
+    2300010: MOL_Equip_ColWall002
+    2300012: MOL_Equip_Doors003
+    2300014: MOL_Equip_Doors004
+    2300016: MOL_Equip_Doors1
+    2300018: MOL_Equip_Doors2
+    2300020: MOL_Equip_Frame
+    2300022: MOL_Equip_ColWall003
+    2300024: MOL_Equip_Frame001
+    2300026: MOL_Equip_ColWallBack003
+    2300028: MOL_Equip_FrameBack
+    3300000: MOL_Equip_ColDoor001
+    3300002: MOL_Equip_ColDoor002
+    3300004: MOL_Equip_ColDoor003
+    3300006: MOL_Equip_ColDoor004
+    3300008: MOL_Equip_ColWall001
+    3300010: MOL_Equip_ColWall002
+    3300012: MOL_Equip_Doors003
+    3300014: MOL_Equip_Doors004
+    3300016: MOL_Equip_Doors1
+    3300018: MOL_Equip_Doors2
+    3300020: MOL_Equip_Frame
+    3300022: MOL_Equip_ColWall003
+    3300024: MOL_Equip_Frame001
+    3300026: MOL_Equip_ColWallBack003
+    3300028: MOL_Equip_FrameBack
+    4300000: MOL_Equip_Frame
+    4300002: MOL_Equip_Doors1
+    4300004: MOL_Equip_Doors2
+    4300006: MOL_Equip_Doors004
+    4300008: MOL_Equip_ColWall002
+    4300010: MOL_Equip_ColWall001
+    4300012: MOL_Equip_Doors003
+    4300014: MOL_Equip_ColDoor001
+    4300016: MOL_Equip_ColDoor004
+    4300018: MOL_Equip_ColDoor002
+    4300020: MOL_Equip_ColDoor003
+    4300022: MOL_Equip_Frame001
+    4300024: MOL_Equip_ColWall003
+    4300026: MOL_Equip_FrameBack
+    4300028: MOL_Equip_ColWallBack003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

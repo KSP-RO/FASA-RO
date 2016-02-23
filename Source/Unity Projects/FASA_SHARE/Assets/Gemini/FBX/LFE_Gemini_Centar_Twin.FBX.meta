@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: abf5b205b50423240ae73c311ececd5b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CentarColl
+    100002: Centaur_Fuel
+    100004: Engine_Nozzle
+    100006: Engine_Nozzle002
+    100008: fairing
+    100010: //RootNode
+    100012: node_collider
+    100014: thrustTransform
+    100016: thrustTransform002
+    100018: Centar_TopColl
+    400000: CentarColl
+    400002: Centaur_Fuel
+    400004: Engine_Nozzle
+    400006: Engine_Nozzle002
+    400008: fairing
+    400010: //RootNode
+    400012: node_collider
+    400014: thrustTransform
+    400016: thrustTransform002
+    400018: Centar_TopColl
+    2300000: CentarColl
+    2300002: Centaur_Fuel
+    2300004: Engine_Nozzle
+    2300006: Engine_Nozzle002
+    2300008: fairing
+    2300010: node_collider
+    2300012: thrustTransform
+    2300014: thrustTransform002
+    2300016: Centar_TopColl
+    3300000: CentarColl
+    3300002: Centaur_Fuel
+    3300004: Engine_Nozzle
+    3300006: Engine_Nozzle002
+    3300008: fairing
+    3300010: node_collider
+    3300012: thrustTransform
+    3300014: thrustTransform002
+    3300016: Centar_TopColl
+    4300000: Engine_Nozzle002
+    4300002: thrustTransform002
+    4300004: node_collider
+    4300006: CentarColl
+    4300008: Centaur_Fuel
+    4300010: Engine_Nozzle
+    4300012: thrustTransform
+    4300014: fairing
+    4300016: Centar_TopColl
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

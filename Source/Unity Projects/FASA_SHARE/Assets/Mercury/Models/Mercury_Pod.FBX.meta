@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 7877cf23bbf85a3438572c28dcd0383c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BigG
+    100002: Engine_Casing_Col
+    100004: Flag
+    100006: //RootNode
+    100008: Mercury_Pod
+    100010: Mercury_Pod_Col
+    100012: WindowGlass
+    100014: Mercury_Pod_TopCol
+    100016: Flag001
+    400000: BigG
+    400002: Engine_Casing_Col
+    400004: Flag
+    400006: //RootNode
+    400008: Mercury_Pod
+    400010: Mercury_Pod_Col
+    400012: WindowGlass
+    400014: Mercury_Pod_TopCol
+    400016: Flag001
+    2300000: BigG
+    2300002: Engine_Casing_Col
+    2300004: Flag
+    2300006: Mercury_Pod
+    2300008: Mercury_Pod_Col
+    2300010: WindowGlass
+    2300012: Mercury_Pod_TopCol
+    2300014: Flag001
+    3300000: BigG
+    3300002: Engine_Casing_Col
+    3300004: Flag
+    3300006: Mercury_Pod
+    3300008: Mercury_Pod_Col
+    3300010: WindowGlass
+    3300012: Mercury_Pod_TopCol
+    3300014: Flag001
+    4300000: BigG
+    4300002: Engine_Casing_Col
+    4300004: Flag
+    4300006: Mercury_Pod
+    4300008: Mercury_Pod_Col
+    4300010: WindowGlass
+    4300012: Mercury_Pod_TopCol
+    4300014: Flag001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

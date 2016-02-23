@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 08b71c5d27d0721488b496a46e0cfaeb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BigGScienceGlass
+    100002: ChairCustom
+    100004: ChairCustom001
+    100006: Exp
+    100008: Floor
+    100010: //RootNode
+    100012: Seat_BackLeft
+    100014: BigG_Sci_Skin_Int
+    100016: Docking_Ext
+    400000: BigGScienceGlass
+    400002: ChairCustom
+    400004: ChairCustom001
+    400006: Exp
+    400008: Floor
+    400010: //RootNode
+    400012: Seat_BackLeft
+    400014: BigG_Sci_Skin_Int
+    400016: Docking_Ext
+    2300000: BigGScienceGlass
+    2300002: ChairCustom
+    2300004: ChairCustom001
+    2300006: Exp
+    2300008: Floor
+    2300010: Seat_BackLeft
+    2300012: BigG_Sci_Skin_Int
+    2300014: Docking_Ext
+    3300000: BigGScienceGlass
+    3300002: ChairCustom
+    3300004: ChairCustom001
+    3300006: Exp
+    3300008: Floor
+    3300010: Seat_BackLeft
+    3300012: BigG_Sci_Skin_Int
+    3300014: Docking_Ext
+    4300000: BigGScienceGlass
+    4300002: ChairCustom
+    4300004: Seat_BackLeft
+    4300006: Floor
+    4300008: Exp
+    4300010: ChairCustom001
+    4300012: Docking_Ext
+    4300014: BigG_Sci_Skin_Int
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
