@@ -46,3 +46,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# LARGE FILES
+
+/Gemini_BigG_Sci_Props_Int.psd
+/Gemini_Pod_Int.psd
