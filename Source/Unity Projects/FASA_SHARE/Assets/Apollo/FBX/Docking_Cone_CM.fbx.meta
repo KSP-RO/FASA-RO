@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 83020394d4da7934dbec2d8e9a825655
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CM_Docking
+    100002: CM_Docking_001
+    100004: //RootNode
+    100006: dockingNode
+    100008: CM_Docking_Col
+    100010: Col_Docking_CM
+    100012: Col_Docking_CM2
+    100014: Docking_Plate
+    100016: Docking_Base
+    100018: DockingBase_Col
+    100020: Col_DockingBase
+    100022: Docking_Cone
+    400000: CM_Docking
+    400002: CM_Docking_001
+    400004: //RootNode
+    400006: dockingNode
+    400008: CM_Docking_Col
+    400010: Col_Docking_CM
+    400012: Col_Docking_CM2
+    400014: Docking_Plate
+    400016: Docking_Base
+    400018: DockingBase_Col
+    400020: Col_DockingBase
+    400022: Docking_Cone
+    2300000: CM_Docking
+    2300002: CM_Docking_001
+    2300004: CM_Docking_Col
+    2300006: Col_Docking_CM
+    2300008: Col_Docking_CM2
+    2300010: Docking_Plate
+    2300012: Docking_Base
+    2300014: DockingBase_Col
+    2300016: Col_DockingBase
+    2300018: Docking_Cone
+    3300000: CM_Docking
+    3300002: CM_Docking_001
+    3300004: CM_Docking_Col
+    3300006: Col_Docking_CM
+    3300008: Col_Docking_CM2
+    3300010: Docking_Plate
+    3300012: Docking_Base
+    3300014: DockingBase_Col
+    3300016: Col_DockingBase
+    3300018: Docking_Cone
+    4300000: CM_Docking_001
+    4300002: CM_Docking
+    4300004: CM_Docking_Col
+    4300006: Col_Docking_CM
+    4300008: Col_Docking_CM2
+    4300010: Docking_Plate
+    4300012: DockingBase_Col
+    4300014: Docking_Base
+    4300016: Docking_Cone
+    4300018: Col_DockingBase
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

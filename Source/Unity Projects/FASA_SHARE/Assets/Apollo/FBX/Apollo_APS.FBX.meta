@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 9ee6c5dc047a8304b8ec6caa646ac5af
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Apollo_APS
+    100004: APS_Collision
+    100006: Capsule001
+    100008: RCSthruster
+    100010: RCSthruster001
+    100012: RCSthruster002
+    100014: RCSthruster003
+    100016: thrustTransform
+    400000: //RootNode
+    400002: Apollo_APS
+    400004: APS_Collision
+    400006: Capsule001
+    400008: RCSthruster
+    400010: RCSthruster001
+    400012: RCSthruster002
+    400014: RCSthruster003
+    400016: thrustTransform
+    2300000: Apollo_APS
+    2300002: APS_Collision
+    2300004: Capsule001
+    2300006: RCSthruster
+    2300008: RCSthruster001
+    2300010: RCSthruster002
+    2300012: RCSthruster003
+    2300014: thrustTransform
+    3300000: Apollo_APS
+    3300002: APS_Collision
+    3300004: Capsule001
+    3300006: RCSthruster
+    3300008: RCSthruster001
+    3300010: RCSthruster002
+    3300012: RCSthruster003
+    3300014: thrustTransform
+    4300000: APS_Collision
+    4300002: Apollo_APS
+    4300004: Capsule001
+    4300006: RCSthruster
+    4300008: RCSthruster001
+    4300010: RCSthruster002
+    4300012: RCSthruster003
+    4300014: thrustTransform
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

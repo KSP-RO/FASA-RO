@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: e1ea20a72f0ea1f44abbb477ffe35d5a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Colider
+    100002: //RootNode
+    100004: Fairings_Plate
+    100006: Farring_Flower_Col
+    100008: Farring_Flower_Col001
+    100010: Farring_Flower_Col002
+    100012: Farring_Flower_Col003
+    100014: Farring_Flower_Col004
+    100016: Farring_Flower_Col005
+    100018: Farring_Flower_Col006
+    100020: Farring_Flower_Col007
+    100022: Farring_Flower_Col008
+    100024: Farring_Flower_Col009
+    100026: Farring_Flower_Col010
+    100028: Farring_Flower_Col011
+    400000: Colider
+    400002: //RootNode
+    400004: Fairings_Plate
+    400006: Farring_Flower_Col
+    400008: Farring_Flower_Col001
+    400010: Farring_Flower_Col002
+    400012: Farring_Flower_Col003
+    400014: Farring_Flower_Col004
+    400016: Farring_Flower_Col005
+    400018: Farring_Flower_Col006
+    400020: Farring_Flower_Col007
+    400022: Farring_Flower_Col008
+    400024: Farring_Flower_Col009
+    400026: Farring_Flower_Col010
+    400028: Farring_Flower_Col011
+    2300000: Colider
+    2300002: Fairings_Plate
+    2300004: Farring_Flower_Col
+    2300006: Farring_Flower_Col001
+    2300008: Farring_Flower_Col002
+    2300010: Farring_Flower_Col003
+    2300012: Farring_Flower_Col004
+    2300014: Farring_Flower_Col005
+    2300016: Farring_Flower_Col006
+    2300018: Farring_Flower_Col007
+    2300020: Farring_Flower_Col008
+    2300022: Farring_Flower_Col009
+    2300024: Farring_Flower_Col010
+    2300026: Farring_Flower_Col011
+    3300000: Colider
+    3300002: Fairings_Plate
+    3300004: Farring_Flower_Col
+    3300006: Farring_Flower_Col001
+    3300008: Farring_Flower_Col002
+    3300010: Farring_Flower_Col003
+    3300012: Farring_Flower_Col004
+    3300014: Farring_Flower_Col005
+    3300016: Farring_Flower_Col006
+    3300018: Farring_Flower_Col007
+    3300020: Farring_Flower_Col008
+    3300022: Farring_Flower_Col009
+    3300024: Farring_Flower_Col010
+    3300026: Farring_Flower_Col011
+    4300000: Fairings_Plate
+    4300002: Colider
+    4300004: Farring_Flower_Col
+    4300006: Farring_Flower_Col001
+    4300008: Farring_Flower_Col002
+    4300010: Farring_Flower_Col003
+    4300012: Farring_Flower_Col004
+    4300014: Farring_Flower_Col005
+    4300016: Farring_Flower_Col006
+    4300018: Farring_Flower_Col007
+    4300020: Farring_Flower_Col008
+    4300022: Farring_Flower_Col009
+    4300024: Farring_Flower_Col010
+    4300026: Farring_Flower_Col011
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 34e1ab8cadeff6e48a65395c70450dd7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ap-psup1
+    100002: ap-psup2
+    100004: //RootNode
+    100006: BaseAdds
+    100008: Central
+    100010: CM_Docking_Col
+    100012: CM_Docking_Col_001
+    100014: ConeTop
+    100016: CSM_DockingDevice
+    100018: dockingNode
+    100020: TubesSusp
+    400000: ap-psup1
+    400002: ap-psup2
+    400004: //RootNode
+    400006: BaseAdds
+    400008: Central
+    400010: CM_Docking_Col
+    400012: CM_Docking_Col_001
+    400014: ConeTop
+    400016: CSM_DockingDevice
+    400018: dockingNode
+    400020: TubesSusp
+    2300000: ap-psup1
+    2300002: ap-psup2
+    2300004: BaseAdds
+    2300006: Central
+    2300008: CM_Docking_Col
+    2300010: CM_Docking_Col_001
+    2300012: ConeTop
+    2300014: CSM_DockingDevice
+    2300016: TubesSusp
+    3300000: ap-psup1
+    3300002: ap-psup2
+    3300004: BaseAdds
+    3300006: Central
+    3300008: CM_Docking_Col
+    3300010: CM_Docking_Col_001
+    3300012: ConeTop
+    3300014: CSM_DockingDevice
+    3300016: TubesSusp
+    4300000: CSM_DockingDevice
+    4300002: TubesSusp
+    4300004: ConeTop
+    4300006: Central
+    4300008: BaseAdds
+    4300010: ap-psup2
+    4300012: ap-psup1
+    4300014: CM_Docking_Col_001
+    4300016: CM_Docking_Col
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

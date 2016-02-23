@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: dfdb03cb05d371c4c9a0c3d71aca8c99
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Fairings_Wall_2m
+    100002: Fairings_Wall_2m_Col
+    100004: //RootNode
+    100006: Fairings_Wall_2m_Col.001
+    100008: Fairings_Wall_2m_Col.002
+    100010: Fairings_Wall_2m_Col.003
+    100012: Fairings_Wall_2m_Col.004
+    100014: Fairings_Wall_2m_Col.005
+    100016: Fairings_Wall_2m_Col.006
+    400000: Fairings_Wall_2m
+    400002: Fairings_Wall_2m_Col
+    400004: //RootNode
+    400006: Fairings_Wall_2m_Col.001
+    400008: Fairings_Wall_2m_Col.002
+    400010: Fairings_Wall_2m_Col.003
+    400012: Fairings_Wall_2m_Col.004
+    400014: Fairings_Wall_2m_Col.005
+    400016: Fairings_Wall_2m_Col.006
+    2300000: Fairings_Wall_2m
+    2300002: Fairings_Wall_2m_Col
+    2300004: Fairings_Wall_2m_Col.001
+    2300006: Fairings_Wall_2m_Col.002
+    2300008: Fairings_Wall_2m_Col.003
+    2300010: Fairings_Wall_2m_Col.004
+    2300012: Fairings_Wall_2m_Col.005
+    2300014: Fairings_Wall_2m_Col.006
+    3300000: Fairings_Wall_2m
+    3300002: Fairings_Wall_2m_Col
+    3300004: Fairings_Wall_2m_Col.001
+    3300006: Fairings_Wall_2m_Col.002
+    3300008: Fairings_Wall_2m_Col.003
+    3300010: Fairings_Wall_2m_Col.004
+    3300012: Fairings_Wall_2m_Col.005
+    3300014: Fairings_Wall_2m_Col.006
+    4300000: Fairings_Wall_2m_Col
+    4300002: Fairings_Wall_2m
+    4300004: Fairings_Wall_2m_Col.006
+    4300006: Fairings_Wall_2m_Col.005
+    4300008: Fairings_Wall_2m_Col.004
+    4300010: Fairings_Wall_2m_Col.003
+    4300012: Fairings_Wall_2m_Col.002
+    4300014: Fairings_Wall_2m_Col.001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 45
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
