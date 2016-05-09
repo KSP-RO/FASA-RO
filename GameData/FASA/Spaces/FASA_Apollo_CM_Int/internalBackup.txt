@@ -1,0 +1,43 @@
+INTERNAL
+{
+	name = FASA_Apollo_CM_Int
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_Left
+		portraitCameraName = Camera_Left
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_Right
+		portraitCameraName = Camera_Right
+		allowCrewHelmet = false
+	}
+		MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_Center
+		portraitCameraName = Camera_Center
+		allowCrewHelmet = false
+	}
+	  MODULE
+  {
+    name = InternalCameraSwitch
+    colliderTransformName = focusCanopyRight
+    cameraTransformName = Camera_FocusRight
+  }
+  	  MODULE
+  {
+    name = InternalCameraSwitch
+    colliderTransformName = focusCanopyCenter
+    cameraTransformName = Camera_FocusCenter
+  }
+  	  MODULE
+  {
+    name = InternalCameraSwitch
+    colliderTransformName = focusCanopyLeft
+    cameraTransformName = Camera_FocusLeft
+  }
+}

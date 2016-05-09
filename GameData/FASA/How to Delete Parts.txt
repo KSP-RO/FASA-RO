@@ -1,0 +1,14 @@
+Folders are broken up by program, Delete the program you do not want.  Its best to delete entire folders as some parts have dependencies for re-use of textures.
+If you just want the part gone without any memory savings you can always just delete that parts .cfg file.
+
+Ex. If you dont want the ICBM parts delete the ICBM folder.
+
+
+-Do not delete These Folders - Unless You Know What You Are Doing
+Plugins (Unless you do NOT want reflections on some parts)
+Props (IVA props for LEM and RPM)
+Resources (Contains the science def for Science)
+Sounds (IVA sounds for LEM and RPM)
+Spaces (The IVA's for all the pods in this mod)
+
+

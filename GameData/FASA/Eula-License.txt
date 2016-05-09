@@ -1,0 +1,28 @@
+FASA is now CC-BY-NC-SA (as part of the condititions of transfer of FASA to NathanKell when frizzank departed KSP modding). We thank frizzank for all his wonderful contributions to the KSP community and for the opportunity to continue to use and to grow FASA.
+
+Original License as follows, from when FASA was ARR:
+
+I try extremely hard to make this mod as compatible and bug free as possible but I can not guarantee that it will work flawlessly in every situation and on every system.
+This just releases my liability in those situations.
+
+By downloading FASA or any piece of software you understand that you are taking a risk of permanent damage to the system or device it is downloaded to, or installed on. Installing or downloading any software may have unintended or undesirable effects to the system or device it is downloaded to or installed on, and I Frizzank, the developer of this software can in no way guarantee that something will not go horribly wrong when using or downloading the FASA mod.
+You, the user of the mod FASA takes full responsibility for any damage, real or simulated that may happen to any system, software or device it is downloaded to or installed on. Also by using this software you release anyone else from any liability for any damages, forever.
+
+FASA is created and maintained by “Frizzank” @ KSP Forums, and is the author of the FASA mod.
+DennyTX is the author of the Apollo LM parts, CSM and any others authored by him in the part cfg.
+DennyTX maintains sole ownership of the parts authored by him and they are used in FASA with permission from DennyTX.
+You must get written permission from Frizzank to use or redistribute anything in this mod in other mods.
+Credit for the original Gemini mod goes to Tosh.
+
+Reflection plug-in released as Public Domain as was the original plug-in by Razche and modified by Starwaster.
+
+Raster Prop Monitor
+Source code and full license information available at
+https://github.com/Mihara/RasterPropMonitor/
+
+Special thanks to
+SundayPunch
+NovaSilisko
+Captain Slug
+Tosh
+bac9

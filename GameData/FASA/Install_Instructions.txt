@@ -1,0 +1,5 @@
+Delete any previous installs for FASA in the GameData folder. Open the zip file and copy the GameData and saves folders into your main KSP directory and overwrite the existing ones. 
+FASA should end up in the GameData folder.
+
+Craft files are in the FASA save game.
+To remove parts, delete whole folders or delete the .cfg for the part only, some parts share textures.

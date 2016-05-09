@@ -1,0 +1,53 @@
+INTERNAL
+{
+	name = GeminiBigGInt
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_Left
+		portraitCameraName = Camera_Left
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_Right
+		portraitCameraName = Camera_Right
+		allowCrewHelmet = false
+	}
+		MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_BackRight
+		portraitCameraName = Camera_BackRight
+		allowCrewHelmet = false
+	}
+			MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_BackLeft
+		portraitCameraName = Camera_BackLeft
+		allowCrewHelmet = false
+	}
+				MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_UpLeft
+		portraitCameraName = Camera_UpLeft
+		allowCrewHelmet = false
+	}
+					MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_UpRight
+		portraitCameraName = Camera_UpRight
+		allowCrewHelmet = false
+	}
+	PROP
+	{
+		name = Compass
+		position = 0.001042744,0.1803387,0.5378368
+		rotation = 0.499999,-0.4999999,-0.5,0.5000011
+		scale = 1,1,1
+	}
+}

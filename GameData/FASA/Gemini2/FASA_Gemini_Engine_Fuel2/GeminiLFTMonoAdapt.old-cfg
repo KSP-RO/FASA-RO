@@ -1,0 +1,96 @@
+PART
+{
+
+// --- general parameters ---
+name = FASAGeminiLFTMonoAdpt
+module = Part
+author = Frizzank
+
+// --- asset parameters ---
+MODEL
+{
+  model = FASA/Gemini2/FASA_Gemini_Engine_Fuel2/Gemini_LFT_Mono_Adapt
+}
+rescaleFactor = 1.0
+scale = 1.0
+
+// --- node definitions ---
+node_stack_top = 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+node_stack_bottom = 0.0, -1.2, 0.0, 0.0, 1.0, 0.0
+
+
+// --- FX definitions ---
+
+
+
+// --- editor parameters ---
+TechRequired = precisionEngineering
+entryCost = 1200
+cost = 650
+category = Propulsion
+subcategory = 0
+title = GeminiSmall Fuel Pack
+manufacturer = FASA
+description = This small fuel pack provides extra fuel for the gemini capsule in the Gemini-Centaur configuration. The engines have been removed and more fuel added.
+
+
+// attachment rules: stack, srfAttach, allowStack, allowSrfAttach, allowCollision
+attachRules = 1,0,1,1,0
+
+// --- standard part parameters ---
+mass = 0.1
+dragModelType = default
+maximum_drag = 0.2
+minimum_drag = 0.2
+angularDrag = 2.0
+crashTolerance = 24
+breakingForce = 80
+breakingTorque = 80
+maxTemp = 3600
+
+
+//Fix for exploding VAB Icons
+
+stageOffset = 0
+childStageOffset = 0
+
+
+
+MODULE
+{
+	name = ModuleRCS
+	thrusterTransformName = RCSthruster
+	thrusterPower = 0.0
+	resourceName = MonoPropellant
+	fxOffset = 0, 0.25, 0.0
+	atmosphereCurve
+ 	{
+   	 key = 0 300
+  	 key = 1 280
+ 	}
+}
+
+//end fix
+
+RESOURCE
+{
+ name = MonoPropellant
+ amount = 100
+ maxAmount = 100
+}
+RESOURCE
+{
+ name = LiquidFuel
+ amount = 270
+ maxAmount = 270
+}
+
+RESOURCE
+{
+ name = Oxidizer
+ amount = 330
+ maxAmount = 330
+}
+
+}
+
