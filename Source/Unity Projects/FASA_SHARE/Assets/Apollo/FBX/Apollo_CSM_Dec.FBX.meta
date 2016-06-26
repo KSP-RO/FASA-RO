@@ -6,15 +6,90 @@ ModelImporter:
     100000: //RootNode
     100002: CSM_Dec
     100004: CSM_Dec_Col
+    100006: CSM_Dec_Col.001
+    100008: CSM_Dec_Col.002
+    100010: CSM_Dec_Col.003
+    100012: CSM_Dec_Col.004
+    100014: CSM_Dec_Col.005
+    100016: CSM_Dec_Col.006
+    100018: CSM_Dec_Col.007
+    100020: CSM_Dec_Col.008
+    100022: CSM_Dec_Col.009
+    100024: CSM_Dec_Col.010
+    100026: CSM_Dec_Col.011
+    100028: CSM_Dec_Col.012
+    100030: CSM_Dec_Col.013
+    100032: CSM_Dec_Col.014
+    100034: CSM_Dec_Col.015
     400000: //RootNode
     400002: CSM_Dec
     400004: CSM_Dec_Col
+    400006: CSM_Dec_Col.001
+    400008: CSM_Dec_Col.002
+    400010: CSM_Dec_Col.003
+    400012: CSM_Dec_Col.004
+    400014: CSM_Dec_Col.005
+    400016: CSM_Dec_Col.006
+    400018: CSM_Dec_Col.007
+    400020: CSM_Dec_Col.008
+    400022: CSM_Dec_Col.009
+    400024: CSM_Dec_Col.010
+    400026: CSM_Dec_Col.011
+    400028: CSM_Dec_Col.012
+    400030: CSM_Dec_Col.013
+    400032: CSM_Dec_Col.014
+    400034: CSM_Dec_Col.015
     2300000: CSM_Dec
     2300002: CSM_Dec_Col
+    2300004: CSM_Dec_Col.001
+    2300006: CSM_Dec_Col.002
+    2300008: CSM_Dec_Col.003
+    2300010: CSM_Dec_Col.004
+    2300012: CSM_Dec_Col.005
+    2300014: CSM_Dec_Col.006
+    2300016: CSM_Dec_Col.007
+    2300018: CSM_Dec_Col.008
+    2300020: CSM_Dec_Col.009
+    2300022: CSM_Dec_Col.010
+    2300024: CSM_Dec_Col.011
+    2300026: CSM_Dec_Col.012
+    2300028: CSM_Dec_Col.013
+    2300030: CSM_Dec_Col.014
+    2300032: CSM_Dec_Col.015
     3300000: CSM_Dec
     3300002: CSM_Dec_Col
+    3300004: CSM_Dec_Col.001
+    3300006: CSM_Dec_Col.002
+    3300008: CSM_Dec_Col.003
+    3300010: CSM_Dec_Col.004
+    3300012: CSM_Dec_Col.005
+    3300014: CSM_Dec_Col.006
+    3300016: CSM_Dec_Col.007
+    3300018: CSM_Dec_Col.008
+    3300020: CSM_Dec_Col.009
+    3300022: CSM_Dec_Col.010
+    3300024: CSM_Dec_Col.011
+    3300026: CSM_Dec_Col.012
+    3300028: CSM_Dec_Col.013
+    3300030: CSM_Dec_Col.014
+    3300032: CSM_Dec_Col.015
     4300000: CSM_Dec
     4300002: CSM_Dec_Col
+    4300004: CSM_Dec_Col.015
+    4300006: CSM_Dec_Col.014
+    4300008: CSM_Dec_Col.013
+    4300010: CSM_Dec_Col.012
+    4300012: CSM_Dec_Col.011
+    4300014: CSM_Dec_Col.010
+    4300016: CSM_Dec_Col.009
+    4300018: CSM_Dec_Col.008
+    4300020: CSM_Dec_Col.007
+    4300022: CSM_Dec_Col.006
+    4300024: CSM_Dec_Col.005
+    4300026: CSM_Dec_Col.004
+    4300028: CSM_Dec_Col.003
+    4300030: CSM_Dec_Col.002
+    4300032: CSM_Dec_Col.001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -35,7 +110,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -67,6 +142,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 1
   userData: 

@@ -7,19 +7,94 @@ ModelImporter:
     100002: Apollo_IU
     100004: LFT_J2_Plate_Col
     100006: Apollo_IU_Col
+    100008: Apollo_IU_Col.001
+    100010: Apollo_IU_Col.002
+    100012: Apollo_IU_Col.003
+    100014: Apollo_IU_Col.004
+    100016: Apollo_IU_Col.005
+    100018: Apollo_IU_Col.006
+    100020: Apollo_IU_Col.007
+    100022: Apollo_IU_Col.008
+    100024: Apollo_IU_Col.009
+    100026: Apollo_IU_Col.010
+    100028: Apollo_IU_Col.011
+    100030: Apollo_IU_Col.012
+    100032: Apollo_IU_Col.013
+    100034: Apollo_IU_Col.014
+    100036: Apollo_IU_Col.015
     400000: //RootNode
     400002: Apollo_IU
     400004: LFT_J2_Plate_Col
     400006: Apollo_IU_Col
+    400008: Apollo_IU_Col.001
+    400010: Apollo_IU_Col.002
+    400012: Apollo_IU_Col.003
+    400014: Apollo_IU_Col.004
+    400016: Apollo_IU_Col.005
+    400018: Apollo_IU_Col.006
+    400020: Apollo_IU_Col.007
+    400022: Apollo_IU_Col.008
+    400024: Apollo_IU_Col.009
+    400026: Apollo_IU_Col.010
+    400028: Apollo_IU_Col.011
+    400030: Apollo_IU_Col.012
+    400032: Apollo_IU_Col.013
+    400034: Apollo_IU_Col.014
+    400036: Apollo_IU_Col.015
     2300000: Apollo_IU
     2300002: LFT_J2_Plate_Col
     2300004: Apollo_IU_Col
+    2300006: Apollo_IU_Col.001
+    2300008: Apollo_IU_Col.002
+    2300010: Apollo_IU_Col.003
+    2300012: Apollo_IU_Col.004
+    2300014: Apollo_IU_Col.005
+    2300016: Apollo_IU_Col.006
+    2300018: Apollo_IU_Col.007
+    2300020: Apollo_IU_Col.008
+    2300022: Apollo_IU_Col.009
+    2300024: Apollo_IU_Col.010
+    2300026: Apollo_IU_Col.011
+    2300028: Apollo_IU_Col.012
+    2300030: Apollo_IU_Col.013
+    2300032: Apollo_IU_Col.014
+    2300034: Apollo_IU_Col.015
     3300000: Apollo_IU
     3300002: LFT_J2_Plate_Col
     3300004: Apollo_IU_Col
+    3300006: Apollo_IU_Col.001
+    3300008: Apollo_IU_Col.002
+    3300010: Apollo_IU_Col.003
+    3300012: Apollo_IU_Col.004
+    3300014: Apollo_IU_Col.005
+    3300016: Apollo_IU_Col.006
+    3300018: Apollo_IU_Col.007
+    3300020: Apollo_IU_Col.008
+    3300022: Apollo_IU_Col.009
+    3300024: Apollo_IU_Col.010
+    3300026: Apollo_IU_Col.011
+    3300028: Apollo_IU_Col.012
+    3300030: Apollo_IU_Col.013
+    3300032: Apollo_IU_Col.014
+    3300034: Apollo_IU_Col.015
     4300000: LFT_J2_Plate_Col
     4300002: Apollo_IU
     4300004: Apollo_IU_Col
+    4300006: Apollo_IU_Col.015
+    4300008: Apollo_IU_Col.014
+    4300010: Apollo_IU_Col.013
+    4300012: Apollo_IU_Col.012
+    4300014: Apollo_IU_Col.011
+    4300016: Apollo_IU_Col.010
+    4300018: Apollo_IU_Col.009
+    4300020: Apollo_IU_Col.008
+    4300022: Apollo_IU_Col.007
+    4300024: Apollo_IU_Col.006
+    4300026: Apollo_IU_Col.005
+    4300028: Apollo_IU_Col.004
+    4300030: Apollo_IU_Col.003
+    4300032: Apollo_IU_Col.002
+    4300034: Apollo_IU_Col.001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -40,7 +115,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -72,6 +147,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 1
   userData: 
